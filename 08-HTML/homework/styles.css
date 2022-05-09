@@ -1,0 +1,26 @@
+h1{color: red; position: fixed; background-color: green; left: 0px; bottom: 20px;}
+img{width: 200px;}
+#thirdDiv { 
+    background-color: blue;
+    width: 500px;
+    height: 600px;
+    padding: 100px; 
+    border: 10px solid red;
+    margin: 50px;
+ }
+#spanId1 {
+    font-size: 18px;
+    margin: 50px;
+    
+}
+.parent{position: relative}
+.box{ display: inline-block;
+     background: red;
+     width: 100px;
+     height: 100px;
+     border: 3px;
+     border-style: double;
+     
+    }
+
+#dos{background: black; position: relative; left: 15px;top: 10px;}
